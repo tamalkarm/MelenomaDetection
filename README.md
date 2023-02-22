@@ -25,12 +25,12 @@
 
 
 ## Technologies Used
-- Tenserflow
-- Pandas
-- Matplotlib
-- Augmentor
-- Scikit-learn
-- Numpy
+- Tenserflow v2.10.0
+- Pandas v1.3.4
+- Matplotlib v3.4.3
+- Augmentor v0.2.10
+- Scikit-learn v1.1.2
+- Numpy v1.20.3S
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
